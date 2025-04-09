@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+xgboost
+tensorflow
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+python-dateutil
+openpyxl
