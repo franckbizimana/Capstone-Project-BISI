@@ -1,0 +1,16 @@
+Here are the direct URLs you can manually type into your browser's address bar:
+
+Perceived Mental Health by Gender and Province
+🔗 https://www150.statcan.gc.ca/n1/tbl/csv/45100079-eng.zip
+
+Unemployment Rates
+🔗 https://www150.statcan.gc.ca/n1/tbl/csv/14100287-eng.zip
+
+Inflation Rates (Consumer Price Index by Province)
+🔗 https://www150.statcan.gc.ca/n1/tbl/csv/18100004-eng.zip
+
+Financial Stress Indicators
+🔗 https://www150.statcan.gc.ca/n1/tbl/csv/11100239-eng.zip
+
+Climate Data from Environment and Climate Change Canada (Manual Selection Required)
+🌍 https://climate.weather.gc.ca/historical_data/search_historic_data_e.html

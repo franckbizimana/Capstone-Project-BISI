@@ -1,0 +1,121 @@
+Province,Year,Quarter,Quarterly Avg Temp (°C),Quarterly Sum Precip (mm)
+Alberta,2021,1,-3.76,37
+Alberta,2021,2,9.71,76
+Alberta,2021,3,16.42,155
+Alberta,2021,4,-1.49,50
+Alberta,2022,1,-2.69,35
+Alberta,2022,2,8.29,191
+Alberta,2022,3,17.12,106
+Alberta,2022,4,-2.73,80
+Alberta,2023,1,-5.08,66
+Alberta,2023,2,11.91,105
+Alberta,2023,3,16.72,110
+Alberta,2023,4,2.52,60
+British Columbia,2021,1,5.02,293
+British Columbia,2021,2,12.68,105
+British Columbia,2021,3,17.82,193
+British Columbia,2021,4,5.88,567
+British Columbia,2022,1,5.27,361
+British Columbia,2022,2,11.58,254
+British Columbia,2022,3,17.05,42
+British Columbia,2022,4,5.66,386
+British Columbia,2023,1,5.13,232
+British Columbia,2023,2,12.69,134
+British Columbia,2023,3,17.57,89
+British Columbia,2023,4,7.86,417
+Manitoba,2021,1,-9.21,0
+Manitoba,2021,2,10.51,0
+Manitoba,2021,3,18.20,0
+Manitoba,2021,4,-2.18,0
+Manitoba,2022,1,-14.81,0
+Manitoba,2022,2,8.98,0
+Manitoba,2022,3,17.74,0
+Manitoba,2022,4,-4.09,0
+Manitoba,2023,1,-12.89,0
+Manitoba,2023,2,12.57,0
+Manitoba,2023,3,17.34,0
+Manitoba,2023,4,-0.62,0
+New Brunswick,2021,1,-4.34,137
+New Brunswick,2021,2,11.66,261
+New Brunswick,2021,3,17.42,308
+New Brunswick,2021,4,2.78,173
+New Brunswick,2022,1,-6.32,218
+New Brunswick,2022,2,10.74,291
+New Brunswick,2022,3,17.71,351
+New Brunswick,2022,4,3.74,275
+New Brunswick,2023,1,-4.64,176
+New Brunswick,2023,2,10.59,284
+New Brunswick,2023,3,17.52,448
+New Brunswick,2023,4,2.91,282
+Newfoundland&labrador,2021,1,-1.82,335
+Newfoundland&labrador,2021,2,7.62,406
+Newfoundland&labrador,2021,3,15.14,276
+Newfoundland&labrador,2021,4,3.78,480
+Newfoundland&labrador,2022,1,-2.00,557
+Newfoundland&labrador,2022,2,6.88,345
+Newfoundland&labrador,2022,3,17.17,440
+Newfoundland&labrador,2022,4,4.77,338
+Newfoundland&labrador,2023,1,-3.26,398
+Newfoundland&labrador,2023,2,5.52,296
+Newfoundland&labrador,2023,3,16.74,302
+Newfoundland&labrador,2023,4,3.67,350
+Nova Scotia,2021,1,-2.10,384
+Nova Scotia,2021,2,11.13,310
+Nova Scotia,2021,3,17.50,419
+Nova Scotia,2021,4,4.86,422
+Nova Scotia,2022,1,-3.01,481
+Nova Scotia,2022,2,10.26,322
+Nova Scotia,2022,3,19.00,286
+Nova Scotia,2022,4,5.98,376
+Nova Scotia,2023,1,-2.19,336
+Nova Scotia,2023,2,10.05,301
+Nova Scotia,2023,3,19.00,525
+Nova Scotia,2023,4,4.71,403
+Ontario,2021,1,-0.24,112
+Ontario,2021,2,14.74,152
+Ontario,2021,3,21.20,249
+Ontario,2021,4,7.17,228
+Ontario,2022,1,-2.51,180
+Ontario,2022,2,14.31,135
+Ontario,2022,3,21.30,182
+Ontario,2022,4,5.89,229
+Ontario,2023,1,0.73,243
+Ontario,2023,2,14.54,258
+Ontario,2023,3,20.93,153
+Ontario,2023,4,7.05,170
+Prince Edward,2021,1,-3.11,273
+Prince Edward,2021,2,9.90,278
+Prince Edward,2021,3,18.12,393
+Prince Edward,2021,4,4.50,318
+Prince Edward,2022,1,-4.38,399
+Prince Edward,2022,2,9.03,255
+Prince Edward,2022,3,17.50,341
+Prince Edward,2022,4,5.15,265
+Prince Edward,2023,1,-3.66,282
+Prince Edward,2023,2,8.95,205
+Prince Edward,2023,3,18.73,389
+Prince Edward,2023,4,4.38,333
+Quebec,2021,1,-4.44,138
+Quebec,2021,2,14.87,172
+Quebec,2021,3,20.50,151
+Quebec,2021,4,3.91,243
+Quebec,2022,1,-7.26,210
+Quebec,2022,2,13.82,352
+Quebec,2022,3,19.66,290
+Quebec,2022,4,4.58,239
+Quebec,2023,1,-3.66,187
+Quebec,2023,2,13.86,200
+Quebec,2023,3,20.34,323
+Quebec,2023,4,4.55,361
+Saskatchewan,2021,1,-7.89,36
+Saskatchewan,2021,2,11.22,70
+Saskatchewan,2021,3,17.99,47
+Saskatchewan,2021,4,-3.53,23
+Saskatchewan,2022,1,-7.80,24
+Saskatchewan,2022,2,10.04,97
+Saskatchewan,2022,3,19.09,40
+Saskatchewan,2022,4,-5.88,61
+Saskatchewan,2023,1,-10.33,7
+Saskatchewan,2023,2,12.18,55
+Saskatchewan,2023,3,17.95,48
+Saskatchewan,2023,4,0.72,21
