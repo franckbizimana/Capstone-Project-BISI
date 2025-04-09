@@ -1,95 +1,176 @@
 # Capstone Project: Predicting Mental Health Trends in Canada
 
-## Overview
-This project aims to analyze how economic, social, and environmental factors influence mental health trends across different provinces in Canada. By leveraging machine learning models, we predict perceived mental health levels over time, helping identify key predictors that impact mental well-being.
+## Project Summary
+
+This project investigates how economic, social, and environmental factors affect mental health trends across Canadian provinces. The goal is to forecast mental health perceptions using machine learning and visualize the results through an interactive Power BI dashboard.
+
+## Team Members
+
+✅ Yi Cao
+
+Data preprocessing lead
+
+Specialized in time series analysis (ARIMA/SARIMA)
+
+
+✅ Akhila
+
+Feature engineering and data integration
+
+Worked on regression and XGBoost models
+
+
+✅ Bibisha Mahat
+
+Exploratory data analysis and correlation studies
+
+Contributed to dashboard design and visuals
+
+
+
+✅ Wamungu Francois
+
+Ridge/Lasso regression and multicollinearity mitigation
+
+Team communication and model validation
+
+
+✅ Yuting Shen
+
+LSTM development and model comparison
+
+Helped resolve technical environment issues
+
 
 ## Objectives
-Use publicly available health data for predictive modeling.
 
-Develop a forecasting model for mental health trends.
+Forecast mental health perception across provinces
 
-Create a Power BI dashboard to visualize insights.
+Quantify the influence of CPI, unemployment, climate, and search trends
 
-Compare predicted vs. actual outcomes to improve accuracy.
+Deliver an interactive Power BI dashboard with scenario testing
+
 ## Data Sources
-The datasets used in this project are sourced from:
 
-Statistics Canada (Mental health perception data)
+Mental Health Data (StatCan: by province/gender, quarterly)
 
-Bank of Canada (Inflation rates)
+Unemployment & Inflation Rates (Bank of Canada, StatCan)
 
-Google Trends (Search trends on mental health topics)
+Google Trends (topics: depression, anxiety, stress, therapy)
 
-Weather Canada (Climate and seasonal patterns)
+Climate Data (weather stats from Environment Canada)
 
-Other Economic Indicators (Unemployment rates, financial stress levels)
 ## Methodology
-1.Data Collection & Preprocessing:
 
-  Extracted and cleaned datasets from various sources.
+Data Processing
 
-  Handled missing values and standardized formats.
+Aggregated monthly data to quarterly
 
-2.Exploratory Data Analysis (EDA):
+Filled missing values using midpoint estimation
 
-  Analyzed trends in mental health perceptions.
+Checked for seasonality and skewness
 
-  Identified correlations with economic, social, and environmental factors.
+VIF analysis for multicollinearity
 
-3.Predictive Modeling:
+Predictive Models
 
-Regression Models:
+1. Regression Models
 
-  Multivariate Linear Regression
+Multiple Linear Regression
 
-  Time Series Regression (ARIMAX, SARIMAX)
+Ridge & Lasso Regression
 
-  Random Forest Regression, XGBoost
+Best R²: 0.39 for Fair/Poor mental health category
 
-Classification Models (if categorical prediction needed):
+Addressed multicollinearity using regularization
 
-  Logistic Regression
+2. Tree-Based Models
 
-  Random Forest Classifier
+Random Forest Regressor
 
-  Gradient Boosting Classifier
+XGBoost
 
-4.Model Validation & Refinement:
+Effective on small datasets
 
-  Compared actual vs. predicted results.
+Handled non-linear relationships
 
-  Fine-tuned models to improve accuracy.
+3. Time-Series Models
 
-## Power BI Dashboard
-Presents real-time predictions and trends.
+ARIMA / SARIMA / SARIMAX
 
-Visualizes how economic and environmental factors impact mental health.
+SARIMAX best fit across categories
 
-Enables interactive exploration of data insights.
-## Challenges Faced
-Limited availability of real-time health datasets.
+Applied multiple differencing rounds for stationarity
 
-Inconsistent update frequency of certain economic indicators.
+4. Deep Learning / Hybrid Models
 
-Integrating multiple data sources for a comprehensive model.
-## Next Steps
-Finalizing unemployment dataset collection.
+LSTM (Limited by data span: 2021–2023)
 
-Running feature selection to optimize model performance.
+Time-series XGBoost
 
-Refining predictions using more advanced models.
+Outperformed LSTM due to better generalization with limited data
 
-Deploying the final model and dashboard
-## Contributors
-Akhila .
+## Key Challenges
 
-Bibisha Mahat
+Limited Time Span: Only 9 quarters of data
 
-Yi Cao
+Model Variance: Different models performed best for different categories
 
-Yuting Shen
+Multicollinearity: Required use of Ridge/Lasso
 
-Wamungu Bizimana Francois
+TensorFlow Issues: Faced environment setup problems with LSTM
+
+Google Colab Timeout: Switched to Jupyter for stability
+
+## Power BI Dashboard Plan
+
+Purpose
+
+Present predictions & insights clearly
+
+Support scenario testing and time/province filtering
+
+Key Visuals
+
+KPI Cards: mental health, inflation, unemployment
+
+Line & Bar Charts: actual vs. predicted values
+
+Heatmaps: by province
+
+What-If Analysis: CPI, unemployment, precipitation
+
+Integration
+
+Combine prediction results from Python with main dataset
+
+Allow user-driven forecasting through DAX parameters
+
+## Repository Structure
+
+📂 mental-health-trends-canada  
+ ├── 📂 data/                 # All raw & cleaned datasets  
+ ├── 📂 notebooks/           # EDA and modeling Jupyter notebooks  
+ ├── 📂 models/              # Serialized models (.pkl/.joblib)  
+ ├── 📂 dashboard/           # Power BI files and report exports  
+ └── requirements.txt        # Python dependencies  
+
+## Tools & Libraries
+
+Python (pandas, scikit-learn, statsmodels, XGBoost, TensorFlow)
+
+Jupyter Notebook & Google Colab
+
+Power BI
+
+## Want to Explore the Code or Dashboard?
+
+Check the folders:
+
+notebooks/: EDA, modeling
+
+dashboard/: Power BI report and .pbix file
 
 ## License
-This project is for academic purposes only and uses publicly available data
+
+For academic use only. All datasets used are publicly available.
