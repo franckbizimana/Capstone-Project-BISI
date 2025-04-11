@@ -1,0 +1,8 @@
+Target,Independent Variable,Coefficient,P-value,Impact Strength,Direction,Note
+Excellent_Very_Good,Depression,4.5992,0.001,High,Positive,
+Excellent_Very_Good,Anxiety,3.3325,0.032,Medium,Positive,
+Excellent_Very_Good,Avg Temp,-2.0664,0.003,Medium,Negative,
+Good,Joint Effect,,,High,Mixed,Significant joint impact despite no individual variable being significant. AIC improved from 641.5 to 405.1.
+Fair_Poor,Depression,-4.3932,0.0,High,Negative,
+Fair_Poor,Anxiety,-3.7441,0.004,Medium,Negative,
+Fair_Poor,Avg Temp,1.4583,0.003,Medium,Positive,

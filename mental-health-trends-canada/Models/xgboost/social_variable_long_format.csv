@@ -1,0 +1,501 @@
+Province,YEAR,QUARTER,Variable,Value,YearQuarter
+Alberta,2021,2,Anxiety,0.35,2021-Q2
+Alberta,2021,3,Anxiety,0.36,2021-Q3
+Alberta,2021,4,Anxiety,0.35,2021-Q4
+Alberta,2022,1,Anxiety,0.32,2022-Q1
+Alberta,2022,2,Anxiety,0.32,2022-Q2
+Alberta,2022,3,Anxiety,0.33,2022-Q3
+Alberta,2022,4,Anxiety,0.3,2022-Q4
+Alberta,2023,1,Anxiety,0.31,2023-Q1
+Alberta,2023,2,Anxiety,0.3,2023-Q2
+Alberta,2023,3,Anxiety,0.33,2023-Q3
+British Columbia,2021,2,Anxiety,0.34,2021-Q2
+British Columbia,2021,3,Anxiety,0.37,2021-Q3
+British Columbia,2021,4,Anxiety,0.35,2021-Q4
+British Columbia,2022,1,Anxiety,0.33,2022-Q1
+British Columbia,2022,2,Anxiety,0.33,2022-Q2
+British Columbia,2022,3,Anxiety,0.33,2022-Q3
+British Columbia,2022,4,Anxiety,0.29,2022-Q4
+British Columbia,2023,1,Anxiety,0.3,2023-Q1
+British Columbia,2023,2,Anxiety,0.31,2023-Q2
+British Columbia,2023,3,Anxiety,0.31,2023-Q3
+Manitoba,2021,2,Anxiety,0.38,2021-Q2
+Manitoba,2021,3,Anxiety,0.36,2021-Q3
+Manitoba,2021,4,Anxiety,0.35,2021-Q4
+Manitoba,2022,1,Anxiety,0.36,2022-Q1
+Manitoba,2022,2,Anxiety,0.35,2022-Q2
+Manitoba,2022,3,Anxiety,0.36,2022-Q3
+Manitoba,2022,4,Anxiety,0.31,2022-Q4
+Manitoba,2023,1,Anxiety,0.33,2023-Q1
+Manitoba,2023,2,Anxiety,0.33,2023-Q2
+Manitoba,2023,3,Anxiety,0.35,2023-Q3
+New Brunswick,2021,2,Anxiety,0.38,2021-Q2
+New Brunswick,2021,3,Anxiety,0.41,2021-Q3
+New Brunswick,2021,4,Anxiety,0.36,2021-Q4
+New Brunswick,2022,1,Anxiety,0.37,2022-Q1
+New Brunswick,2022,2,Anxiety,0.36,2022-Q2
+New Brunswick,2022,3,Anxiety,0.42,2022-Q3
+New Brunswick,2022,4,Anxiety,0.36,2022-Q4
+New Brunswick,2023,1,Anxiety,0.36,2023-Q1
+New Brunswick,2023,2,Anxiety,0.35,2023-Q2
+New Brunswick,2023,3,Anxiety,0.37,2023-Q3
+Newfoundland and Labrador,2021,2,Anxiety,0.45,2021-Q2
+Newfoundland and Labrador,2021,3,Anxiety,0.42,2021-Q3
+Newfoundland and Labrador,2021,4,Anxiety,0.42,2021-Q4
+Newfoundland and Labrador,2022,1,Anxiety,0.41,2022-Q1
+Newfoundland and Labrador,2022,2,Anxiety,0.42,2022-Q2
+Newfoundland and Labrador,2022,3,Anxiety,0.37,2022-Q3
+Newfoundland and Labrador,2022,4,Anxiety,0.38,2022-Q4
+Newfoundland and Labrador,2023,1,Anxiety,0.38,2023-Q1
+Newfoundland and Labrador,2023,2,Anxiety,0.36,2023-Q2
+Newfoundland and Labrador,2023,3,Anxiety,0.41,2023-Q3
+Nova Scotia,2021,2,Anxiety,0.4,2021-Q2
+Nova Scotia,2021,3,Anxiety,0.43,2021-Q3
+Nova Scotia,2021,4,Anxiety,0.37,2021-Q4
+Nova Scotia,2022,1,Anxiety,0.37,2022-Q1
+Nova Scotia,2022,2,Anxiety,0.36,2022-Q2
+Nova Scotia,2022,3,Anxiety,0.36,2022-Q3
+Nova Scotia,2022,4,Anxiety,0.34,2022-Q4
+Nova Scotia,2023,1,Anxiety,0.36,2023-Q1
+Nova Scotia,2023,2,Anxiety,0.35,2023-Q2
+Nova Scotia,2023,3,Anxiety,0.36,2023-Q3
+Ontario,2021,2,Anxiety,0.38,2021-Q2
+Ontario,2021,3,Anxiety,0.37,2021-Q3
+Ontario,2021,4,Anxiety,0.35,2021-Q4
+Ontario,2022,1,Anxiety,0.33,2022-Q1
+Ontario,2022,2,Anxiety,0.33,2022-Q2
+Ontario,2022,3,Anxiety,0.34,2022-Q3
+Ontario,2022,4,Anxiety,0.32,2022-Q4
+Ontario,2023,1,Anxiety,0.32,2023-Q1
+Ontario,2023,2,Anxiety,0.3,2023-Q2
+Ontario,2023,3,Anxiety,0.31,2023-Q3
+Prince Edward Island,2021,2,Anxiety,0.41,2021-Q2
+Prince Edward Island,2021,3,Anxiety,0.47,2021-Q3
+Prince Edward Island,2021,4,Anxiety,0.37,2021-Q4
+Prince Edward Island,2022,1,Anxiety,0.4,2022-Q1
+Prince Edward Island,2022,2,Anxiety,0.39,2022-Q2
+Prince Edward Island,2022,3,Anxiety,0.42,2022-Q3
+Prince Edward Island,2022,4,Anxiety,0.38,2022-Q4
+Prince Edward Island,2023,1,Anxiety,0.37,2023-Q1
+Prince Edward Island,2023,2,Anxiety,0.35,2023-Q2
+Prince Edward Island,2023,3,Anxiety,0.41,2023-Q3
+Quebec,2021,2,Anxiety,0.23,2021-Q2
+Quebec,2021,3,Anxiety,0.25,2021-Q3
+Quebec,2021,4,Anxiety,0.24,2021-Q4
+Quebec,2022,1,Anxiety,0.23,2022-Q1
+Quebec,2022,2,Anxiety,0.22,2022-Q2
+Quebec,2022,3,Anxiety,0.25,2022-Q3
+Quebec,2022,4,Anxiety,0.21,2022-Q4
+Quebec,2023,1,Anxiety,0.21,2023-Q1
+Quebec,2023,2,Anxiety,0.21,2023-Q2
+Quebec,2023,3,Anxiety,0.23,2023-Q3
+Saskatchewan,2021,2,Anxiety,0.36,2021-Q2
+Saskatchewan,2021,3,Anxiety,0.4,2021-Q3
+Saskatchewan,2021,4,Anxiety,0.36,2021-Q4
+Saskatchewan,2022,1,Anxiety,0.36,2022-Q1
+Saskatchewan,2022,2,Anxiety,0.34,2022-Q2
+Saskatchewan,2022,3,Anxiety,0.36,2022-Q3
+Saskatchewan,2022,4,Anxiety,0.34,2022-Q4
+Saskatchewan,2023,1,Anxiety,0.32,2023-Q1
+Saskatchewan,2023,2,Anxiety,0.32,2023-Q2
+Saskatchewan,2023,3,Anxiety,0.35,2023-Q3
+Alberta,2021,2,Depression,0.17,2021-Q2
+Alberta,2021,3,Depression,0.16,2021-Q3
+Alberta,2021,4,Depression,0.17,2021-Q4
+Alberta,2022,1,Depression,0.16,2022-Q1
+Alberta,2022,2,Depression,0.17,2022-Q2
+Alberta,2022,3,Depression,0.15,2022-Q3
+Alberta,2022,4,Depression,0.16,2022-Q4
+Alberta,2023,1,Depression,0.15,2023-Q1
+Alberta,2023,2,Depression,0.14,2023-Q2
+Alberta,2023,3,Depression,0.14,2023-Q3
+British Columbia,2021,2,Depression,0.17,2021-Q2
+British Columbia,2021,3,Depression,0.17,2021-Q3
+British Columbia,2021,4,Depression,0.18,2021-Q4
+British Columbia,2022,1,Depression,0.18,2022-Q1
+British Columbia,2022,2,Depression,0.18,2022-Q2
+British Columbia,2022,3,Depression,0.16,2022-Q3
+British Columbia,2022,4,Depression,0.18,2022-Q4
+British Columbia,2023,1,Depression,0.18,2023-Q1
+British Columbia,2023,2,Depression,0.16,2023-Q2
+British Columbia,2023,3,Depression,0.14,2023-Q3
+Manitoba,2021,2,Depression,0.19,2021-Q2
+Manitoba,2021,3,Depression,0.19,2021-Q3
+Manitoba,2021,4,Depression,0.2,2021-Q4
+Manitoba,2022,1,Depression,0.18,2022-Q1
+Manitoba,2022,2,Depression,0.2,2022-Q2
+Manitoba,2022,3,Depression,0.18,2022-Q3
+Manitoba,2022,4,Depression,0.2,2022-Q4
+Manitoba,2023,1,Depression,0.19,2023-Q1
+Manitoba,2023,2,Depression,0.17,2023-Q2
+Manitoba,2023,3,Depression,0.16,2023-Q3
+New Brunswick,2021,2,Depression,0.21,2021-Q2
+New Brunswick,2021,3,Depression,0.21,2021-Q3
+New Brunswick,2021,4,Depression,0.21,2021-Q4
+New Brunswick,2022,1,Depression,0.2,2022-Q1
+New Brunswick,2022,2,Depression,0.21,2022-Q2
+New Brunswick,2022,3,Depression,0.19,2022-Q3
+New Brunswick,2022,4,Depression,0.22,2022-Q4
+New Brunswick,2023,1,Depression,0.2,2023-Q1
+New Brunswick,2023,2,Depression,0.18,2023-Q2
+New Brunswick,2023,3,Depression,0.18,2023-Q3
+Newfoundland and Labrador,2021,2,Depression,0.18,2021-Q2
+Newfoundland and Labrador,2021,3,Depression,0.19,2021-Q3
+Newfoundland and Labrador,2021,4,Depression,0.22,2021-Q4
+Newfoundland and Labrador,2022,1,Depression,0.18,2022-Q1
+Newfoundland and Labrador,2022,2,Depression,0.21,2022-Q2
+Newfoundland and Labrador,2022,3,Depression,0.2,2022-Q3
+Newfoundland and Labrador,2022,4,Depression,0.2,2022-Q4
+Newfoundland and Labrador,2023,1,Depression,0.18,2023-Q1
+Newfoundland and Labrador,2023,2,Depression,0.19,2023-Q2
+Newfoundland and Labrador,2023,3,Depression,0.19,2023-Q3
+Nova Scotia,2021,2,Depression,0.2,2021-Q2
+Nova Scotia,2021,3,Depression,0.17,2021-Q3
+Nova Scotia,2021,4,Depression,0.19,2021-Q4
+Nova Scotia,2022,1,Depression,0.2,2022-Q1
+Nova Scotia,2022,2,Depression,0.19,2022-Q2
+Nova Scotia,2022,3,Depression,0.19,2022-Q3
+Nova Scotia,2022,4,Depression,0.2,2022-Q4
+Nova Scotia,2023,1,Depression,0.19,2023-Q1
+Nova Scotia,2023,2,Depression,0.18,2023-Q2
+Nova Scotia,2023,3,Depression,0.17,2023-Q3
+Ontario,2021,2,Depression,0.18,2021-Q2
+Ontario,2021,3,Depression,0.18,2021-Q3
+Ontario,2021,4,Depression,0.19,2021-Q4
+Ontario,2022,1,Depression,0.18,2022-Q1
+Ontario,2022,2,Depression,0.19,2022-Q2
+Ontario,2022,3,Depression,0.18,2022-Q3
+Ontario,2022,4,Depression,0.19,2022-Q4
+Ontario,2023,1,Depression,0.17,2023-Q1
+Ontario,2023,2,Depression,0.17,2023-Q2
+Ontario,2023,3,Depression,0.16,2023-Q3
+Prince Edward Island,2021,2,Depression,0.19,2021-Q2
+Prince Edward Island,2021,3,Depression,0.15,2021-Q3
+Prince Edward Island,2021,4,Depression,0.21,2021-Q4
+Prince Edward Island,2022,1,Depression,0.2,2022-Q1
+Prince Edward Island,2022,2,Depression,0.2,2022-Q2
+Prince Edward Island,2022,3,Depression,0.2,2022-Q3
+Prince Edward Island,2022,4,Depression,0.19,2022-Q4
+Prince Edward Island,2023,1,Depression,0.18,2023-Q1
+Prince Edward Island,2023,2,Depression,0.17,2023-Q2
+Prince Edward Island,2023,3,Depression,0.17,2023-Q3
+Quebec,2021,2,Depression,0.26,2021-Q2
+Quebec,2021,3,Depression,0.26,2021-Q3
+Quebec,2021,4,Depression,0.26,2021-Q4
+Quebec,2022,1,Depression,0.27,2022-Q1
+Quebec,2022,2,Depression,0.25,2022-Q2
+Quebec,2022,3,Depression,0.24,2022-Q3
+Quebec,2022,4,Depression,0.26,2022-Q4
+Quebec,2023,1,Depression,0.26,2023-Q1
+Quebec,2023,2,Depression,0.22,2023-Q2
+Quebec,2023,3,Depression,0.22,2023-Q3
+Saskatchewan,2021,2,Depression,0.2,2021-Q2
+Saskatchewan,2021,3,Depression,0.19,2021-Q3
+Saskatchewan,2021,4,Depression,0.19,2021-Q4
+Saskatchewan,2022,1,Depression,0.18,2022-Q1
+Saskatchewan,2022,2,Depression,0.19,2022-Q2
+Saskatchewan,2022,3,Depression,0.18,2022-Q3
+Saskatchewan,2022,4,Depression,0.19,2022-Q4
+Saskatchewan,2023,1,Depression,0.18,2023-Q1
+Saskatchewan,2023,2,Depression,0.18,2023-Q2
+Saskatchewan,2023,3,Depression,0.16,2023-Q3
+Alberta,2021,2,Stress,0.13,2021-Q2
+Alberta,2021,3,Stress,0.13,2021-Q3
+Alberta,2021,4,Stress,0.14,2021-Q4
+Alberta,2022,1,Stress,0.15,2022-Q1
+Alberta,2022,2,Stress,0.14,2022-Q2
+Alberta,2022,3,Stress,0.14,2022-Q3
+Alberta,2022,4,Stress,0.14,2022-Q4
+Alberta,2023,1,Stress,0.14,2023-Q1
+Alberta,2023,2,Stress,0.14,2023-Q2
+Alberta,2023,3,Stress,0.13,2023-Q3
+British Columbia,2021,2,Stress,0.14,2021-Q2
+British Columbia,2021,3,Stress,0.14,2021-Q3
+British Columbia,2021,4,Stress,0.14,2021-Q4
+British Columbia,2022,1,Stress,0.14,2022-Q1
+British Columbia,2022,2,Stress,0.13,2022-Q2
+British Columbia,2022,3,Stress,0.13,2022-Q3
+British Columbia,2022,4,Stress,0.14,2022-Q4
+British Columbia,2023,1,Stress,0.13,2023-Q1
+British Columbia,2023,2,Stress,0.14,2023-Q2
+British Columbia,2023,3,Stress,0.14,2023-Q3
+Manitoba,2021,2,Stress,0.16,2021-Q2
+Manitoba,2021,3,Stress,0.15,2021-Q3
+Manitoba,2021,4,Stress,0.17,2021-Q4
+Manitoba,2022,1,Stress,0.16,2022-Q1
+Manitoba,2022,2,Stress,0.15,2022-Q2
+Manitoba,2022,3,Stress,0.15,2022-Q3
+Manitoba,2022,4,Stress,0.16,2022-Q4
+Manitoba,2023,1,Stress,0.16,2023-Q1
+Manitoba,2023,2,Stress,0.16,2023-Q2
+Manitoba,2023,3,Stress,0.15,2023-Q3
+New Brunswick,2021,2,Stress,0.17,2021-Q2
+New Brunswick,2021,3,Stress,0.16,2021-Q3
+New Brunswick,2021,4,Stress,0.2,2021-Q4
+New Brunswick,2022,1,Stress,0.2,2022-Q1
+New Brunswick,2022,2,Stress,0.17,2022-Q2
+New Brunswick,2022,3,Stress,0.14,2022-Q3
+New Brunswick,2022,4,Stress,0.17,2022-Q4
+New Brunswick,2023,1,Stress,0.18,2023-Q1
+New Brunswick,2023,2,Stress,0.18,2023-Q2
+New Brunswick,2023,3,Stress,0.18,2023-Q3
+Newfoundland and Labrador,2021,2,Stress,0.16,2021-Q2
+Newfoundland and Labrador,2021,3,Stress,0.17,2021-Q3
+Newfoundland and Labrador,2021,4,Stress,0.15,2021-Q4
+Newfoundland and Labrador,2022,1,Stress,0.18,2022-Q1
+Newfoundland and Labrador,2022,2,Stress,0.16,2022-Q2
+Newfoundland and Labrador,2022,3,Stress,0.16,2022-Q3
+Newfoundland and Labrador,2022,4,Stress,0.17,2022-Q4
+Newfoundland and Labrador,2023,1,Stress,0.16,2023-Q1
+Newfoundland and Labrador,2023,2,Stress,0.17,2023-Q2
+Newfoundland and Labrador,2023,3,Stress,0.16,2023-Q3
+Nova Scotia,2021,2,Stress,0.16,2021-Q2
+Nova Scotia,2021,3,Stress,0.16,2021-Q3
+Nova Scotia,2021,4,Stress,0.17,2021-Q4
+Nova Scotia,2022,1,Stress,0.15,2022-Q1
+Nova Scotia,2022,2,Stress,0.16,2022-Q2
+Nova Scotia,2022,3,Stress,0.15,2022-Q3
+Nova Scotia,2022,4,Stress,0.17,2022-Q4
+Nova Scotia,2023,1,Stress,0.16,2023-Q1
+Nova Scotia,2023,2,Stress,0.16,2023-Q2
+Nova Scotia,2023,3,Stress,0.16,2023-Q3
+Ontario,2021,2,Stress,0.16,2021-Q2
+Ontario,2021,3,Stress,0.17,2021-Q3
+Ontario,2021,4,Stress,0.17,2021-Q4
+Ontario,2022,1,Stress,0.18,2022-Q1
+Ontario,2022,2,Stress,0.17,2022-Q2
+Ontario,2022,3,Stress,0.15,2022-Q3
+Ontario,2022,4,Stress,0.17,2022-Q4
+Ontario,2023,1,Stress,0.17,2023-Q1
+Ontario,2023,2,Stress,0.16,2023-Q2
+Ontario,2023,3,Stress,0.16,2023-Q3
+Prince Edward Island,2021,2,Stress,0.14,2021-Q2
+Prince Edward Island,2021,3,Stress,0.16,2021-Q3
+Prince Edward Island,2021,4,Stress,0.17,2021-Q4
+Prince Edward Island,2022,1,Stress,0.14,2022-Q1
+Prince Edward Island,2022,2,Stress,0.19,2022-Q2
+Prince Edward Island,2022,3,Stress,0.14,2022-Q3
+Prince Edward Island,2022,4,Stress,0.16,2022-Q4
+Prince Edward Island,2023,1,Stress,0.15,2023-Q1
+Prince Edward Island,2023,2,Stress,0.21,2023-Q2
+Prince Edward Island,2023,3,Stress,0.12,2023-Q3
+Quebec,2021,2,Stress,0.34,2021-Q2
+Quebec,2021,3,Stress,0.31,2021-Q3
+Quebec,2021,4,Stress,0.32,2021-Q4
+Quebec,2022,1,Stress,0.33,2022-Q1
+Quebec,2022,2,Stress,0.36,2022-Q2
+Quebec,2022,3,Stress,0.31,2022-Q3
+Quebec,2022,4,Stress,0.33,2022-Q4
+Quebec,2023,1,Stress,0.34,2023-Q1
+Quebec,2023,2,Stress,0.34,2023-Q2
+Quebec,2023,3,Stress,0.33,2023-Q3
+Saskatchewan,2021,2,Stress,0.15,2021-Q2
+Saskatchewan,2021,3,Stress,0.14,2021-Q3
+Saskatchewan,2021,4,Stress,0.15,2021-Q4
+Saskatchewan,2022,1,Stress,0.16,2022-Q1
+Saskatchewan,2022,2,Stress,0.15,2022-Q2
+Saskatchewan,2022,3,Stress,0.14,2022-Q3
+Saskatchewan,2022,4,Stress,0.15,2022-Q4
+Saskatchewan,2023,1,Stress,0.15,2023-Q1
+Saskatchewan,2023,2,Stress,0.15,2023-Q2
+Saskatchewan,2023,3,Stress,0.15,2023-Q3
+Alberta,2021,2,Therapy,0.35,2021-Q2
+Alberta,2021,3,Therapy,0.35,2021-Q3
+Alberta,2021,4,Therapy,0.34,2021-Q4
+Alberta,2022,1,Therapy,0.37,2022-Q1
+Alberta,2022,2,Therapy,0.37,2022-Q2
+Alberta,2022,3,Therapy,0.38,2022-Q3
+Alberta,2022,4,Therapy,0.4,2022-Q4
+Alberta,2023,1,Therapy,0.4,2023-Q1
+Alberta,2023,2,Therapy,0.42,2023-Q2
+Alberta,2023,3,Therapy,0.4,2023-Q3
+British Columbia,2021,2,Therapy,0.35,2021-Q2
+British Columbia,2021,3,Therapy,0.32,2021-Q3
+British Columbia,2021,4,Therapy,0.33,2021-Q4
+British Columbia,2022,1,Therapy,0.35,2022-Q1
+British Columbia,2022,2,Therapy,0.36,2022-Q2
+British Columbia,2022,3,Therapy,0.38,2022-Q3
+British Columbia,2022,4,Therapy,0.39,2022-Q4
+British Columbia,2023,1,Therapy,0.39,2023-Q1
+British Columbia,2023,2,Therapy,0.39,2023-Q2
+British Columbia,2023,3,Therapy,0.41,2023-Q3
+Manitoba,2021,2,Therapy,0.27,2021-Q2
+Manitoba,2021,3,Therapy,0.3,2021-Q3
+Manitoba,2021,4,Therapy,0.28,2021-Q4
+Manitoba,2022,1,Therapy,0.3,2022-Q1
+Manitoba,2022,2,Therapy,0.3,2022-Q2
+Manitoba,2022,3,Therapy,0.31,2022-Q3
+Manitoba,2022,4,Therapy,0.33,2022-Q4
+Manitoba,2023,1,Therapy,0.32,2023-Q1
+Manitoba,2023,2,Therapy,0.34,2023-Q2
+Manitoba,2023,3,Therapy,0.34,2023-Q3
+New Brunswick,2021,2,Therapy,0.24,2021-Q2
+New Brunswick,2021,3,Therapy,0.22,2021-Q3
+New Brunswick,2021,4,Therapy,0.23,2021-Q4
+New Brunswick,2022,1,Therapy,0.23,2022-Q1
+New Brunswick,2022,2,Therapy,0.26,2022-Q2
+New Brunswick,2022,3,Therapy,0.25,2022-Q3
+New Brunswick,2022,4,Therapy,0.25,2022-Q4
+New Brunswick,2023,1,Therapy,0.26,2023-Q1
+New Brunswick,2023,2,Therapy,0.29,2023-Q2
+New Brunswick,2023,3,Therapy,0.27,2023-Q3
+Newfoundland and Labrador,2021,2,Therapy,0.21,2021-Q2
+Newfoundland and Labrador,2021,3,Therapy,0.22,2021-Q3
+Newfoundland and Labrador,2021,4,Therapy,0.21,2021-Q4
+Newfoundland and Labrador,2022,1,Therapy,0.23,2022-Q1
+Newfoundland and Labrador,2022,2,Therapy,0.21,2022-Q2
+Newfoundland and Labrador,2022,3,Therapy,0.27,2022-Q3
+Newfoundland and Labrador,2022,4,Therapy,0.25,2022-Q4
+Newfoundland and Labrador,2023,1,Therapy,0.28,2023-Q1
+Newfoundland and Labrador,2023,2,Therapy,0.28,2023-Q2
+Newfoundland and Labrador,2023,3,Therapy,0.24,2023-Q3
+Nova Scotia,2021,2,Therapy,0.24,2021-Q2
+Nova Scotia,2021,3,Therapy,0.24,2021-Q3
+Nova Scotia,2021,4,Therapy,0.27,2021-Q4
+Nova Scotia,2022,1,Therapy,0.28,2022-Q1
+Nova Scotia,2022,2,Therapy,0.29,2022-Q2
+Nova Scotia,2022,3,Therapy,0.3,2022-Q3
+Nova Scotia,2022,4,Therapy,0.29,2022-Q4
+Nova Scotia,2023,1,Therapy,0.29,2023-Q1
+Nova Scotia,2023,2,Therapy,0.31,2023-Q2
+Nova Scotia,2023,3,Therapy,0.31,2023-Q3
+Ontario,2021,2,Therapy,0.28,2021-Q2
+Ontario,2021,3,Therapy,0.28,2021-Q3
+Ontario,2021,4,Therapy,0.29,2021-Q4
+Ontario,2022,1,Therapy,0.31,2022-Q1
+Ontario,2022,2,Therapy,0.31,2022-Q2
+Ontario,2022,3,Therapy,0.33,2022-Q3
+Ontario,2022,4,Therapy,0.32,2022-Q4
+Ontario,2023,1,Therapy,0.34,2023-Q1
+Ontario,2023,2,Therapy,0.37,2023-Q2
+Ontario,2023,3,Therapy,0.37,2023-Q3
+Prince Edward Island,2021,2,Therapy,0.26,2021-Q2
+Prince Edward Island,2021,3,Therapy,0.22,2021-Q3
+Prince Edward Island,2021,4,Therapy,0.25,2021-Q4
+Prince Edward Island,2022,1,Therapy,0.26,2022-Q1
+Prince Edward Island,2022,2,Therapy,0.22,2022-Q2
+Prince Edward Island,2022,3,Therapy,0.24,2022-Q3
+Prince Edward Island,2022,4,Therapy,0.27,2022-Q4
+Prince Edward Island,2023,1,Therapy,0.3,2023-Q1
+Prince Edward Island,2023,2,Therapy,0.27,2023-Q2
+Prince Edward Island,2023,3,Therapy,0.3,2023-Q3
+Quebec,2021,2,Therapy,0.17,2021-Q2
+Quebec,2021,3,Therapy,0.18,2021-Q3
+Quebec,2021,4,Therapy,0.18,2021-Q4
+Quebec,2022,1,Therapy,0.17,2022-Q1
+Quebec,2022,2,Therapy,0.17,2022-Q2
+Quebec,2022,3,Therapy,0.2,2022-Q3
+Quebec,2022,4,Therapy,0.2,2022-Q4
+Quebec,2023,1,Therapy,0.19,2023-Q1
+Quebec,2023,2,Therapy,0.23,2023-Q2
+Quebec,2023,3,Therapy,0.22,2023-Q3
+Saskatchewan,2021,2,Therapy,0.29,2021-Q2
+Saskatchewan,2021,3,Therapy,0.27,2021-Q3
+Saskatchewan,2021,4,Therapy,0.3,2021-Q4
+Saskatchewan,2022,1,Therapy,0.3,2022-Q1
+Saskatchewan,2022,2,Therapy,0.32,2022-Q2
+Saskatchewan,2022,3,Therapy,0.32,2022-Q3
+Saskatchewan,2022,4,Therapy,0.32,2022-Q4
+Saskatchewan,2023,1,Therapy,0.35,2023-Q1
+Saskatchewan,2023,2,Therapy,0.35,2023-Q2
+Saskatchewan,2023,3,Therapy,0.34,2023-Q3
+Alberta,2021,2,Unemployment Rate,8.7,2021-Q2
+Alberta,2021,3,Unemployment Rate,8.066666667,2021-Q3
+Alberta,2021,4,Unemployment Rate,7.366666667,2021-Q4
+Alberta,2022,1,Unemployment Rate,6.6,2022-Q1
+Alberta,2022,2,Unemployment Rate,5.733333333,2022-Q2
+Alberta,2022,3,Unemployment Rate,5.3,2022-Q3
+Alberta,2022,4,Unemployment Rate,5.633333333,2022-Q4
+Alberta,2023,1,Unemployment Rate,5.9,2023-Q1
+Alberta,2023,2,Unemployment Rate,5.766666667,2023-Q2
+Alberta,2023,3,Unemployment Rate,5.5,2023-Q3
+British Columbia,2021,2,Unemployment Rate,6.9,2021-Q2
+British Columbia,2021,3,Unemployment Rate,6.366666667,2021-Q3
+British Columbia,2021,4,Unemployment Rate,5.466666667,2021-Q4
+British Columbia,2022,1,Unemployment Rate,5.0,2022-Q1
+British Columbia,2022,2,Unemployment Rate,4.666666667,2022-Q2
+British Columbia,2022,3,Unemployment Rate,4.533333333,2022-Q3
+British Columbia,2022,4,Unemployment Rate,4.4,2022-Q4
+British Columbia,2023,1,Unemployment Rate,4.766666667,2023-Q1
+British Columbia,2023,2,Unemployment Rate,5.233333333,2023-Q2
+British Columbia,2023,3,Unemployment Rate,5.35,2023-Q3
+Manitoba,2021,2,Unemployment Rate,7.233333333,2021-Q2
+Manitoba,2021,3,Unemployment Rate,5.833333333,2021-Q3
+Manitoba,2021,4,Unemployment Rate,5.133333333,2021-Q4
+Manitoba,2022,1,Unemployment Rate,4.7,2022-Q1
+Manitoba,2022,2,Unemployment Rate,4.433333333,2022-Q2
+Manitoba,2022,3,Unemployment Rate,4.5,2022-Q3
+Manitoba,2022,4,Unemployment Rate,4.4,2022-Q4
+Manitoba,2023,1,Unemployment Rate,4.733333333,2023-Q1
+Manitoba,2023,2,Unemployment Rate,4.8,2023-Q2
+Manitoba,2023,3,Unemployment Rate,5.35,2023-Q3
+New Brunswick,2021,2,Unemployment Rate,9.433333333,2021-Q2
+New Brunswick,2021,3,Unemployment Rate,9.566666667,2021-Q3
+New Brunswick,2021,4,Unemployment Rate,8.466666667,2021-Q4
+New Brunswick,2022,1,Unemployment Rate,7.7,2022-Q1
+New Brunswick,2022,2,Unemployment Rate,6.866666667,2022-Q2
+New Brunswick,2022,3,Unemployment Rate,6.966666667,2022-Q3
+New Brunswick,2022,4,Unemployment Rate,7.3,2022-Q4
+New Brunswick,2023,1,Unemployment Rate,6.333333333,2023-Q1
+New Brunswick,2023,2,Unemployment Rate,6.4,2023-Q2
+New Brunswick,2023,3,Unemployment Rate,7.45,2023-Q3
+Newfoundland and Labrador,2021,2,Unemployment Rate,13.0,2021-Q2
+Newfoundland and Labrador,2021,3,Unemployment Rate,13.46666667,2021-Q3
+Newfoundland and Labrador,2021,4,Unemployment Rate,12.23333333,2021-Q4
+Newfoundland and Labrador,2022,1,Unemployment Rate,13.2,2022-Q1
+Newfoundland and Labrador,2022,2,Unemployment Rate,10.66666667,2022-Q2
+Newfoundland and Labrador,2022,3,Unemployment Rate,10.53333333,2022-Q3
+Newfoundland and Labrador,2022,4,Unemployment Rate,10.16666667,2022-Q4
+Newfoundland and Labrador,2023,1,Unemployment Rate,10.46666667,2023-Q1
+Newfoundland and Labrador,2023,2,Unemployment Rate,9.7,2023-Q2
+Newfoundland and Labrador,2023,3,Unemployment Rate,9.0,2023-Q3
+Nova Scotia,2021,2,Unemployment Rate,9.2,2021-Q2
+Nova Scotia,2021,3,Unemployment Rate,8.133333333,2021-Q3
+Nova Scotia,2021,4,Unemployment Rate,8.033333333,2021-Q4
+Nova Scotia,2022,1,Unemployment Rate,6.866666667,2022-Q1
+Nova Scotia,2022,2,Unemployment Rate,6.533333333,2022-Q2
+Nova Scotia,2022,3,Unemployment Rate,6.7,2022-Q3
+Nova Scotia,2022,4,Unemployment Rate,6.266666667,2022-Q4
+Nova Scotia,2023,1,Unemployment Rate,5.7,2023-Q1
+Nova Scotia,2023,2,Unemployment Rate,6.366666667,2023-Q2
+Nova Scotia,2023,3,Unemployment Rate,6.95,2023-Q3
+Ontario,2021,2,Unemployment Rate,9.2,2021-Q2
+Ontario,2021,3,Unemployment Rate,7.666666667,2021-Q3
+Ontario,2021,4,Unemployment Rate,6.5,2021-Q4
+Ontario,2022,1,Unemployment Rate,6.166666667,2022-Q1
+Ontario,2022,2,Unemployment Rate,5.366666667,2022-Q2
+Ontario,2022,3,Unemployment Rate,5.333333333,2022-Q3
+Ontario,2022,4,Unemployment Rate,5.466666667,2022-Q4
+Ontario,2023,1,Unemployment Rate,5.2,2023-Q1
+Ontario,2023,2,Unemployment Rate,5.366666667,2023-Q2
+Ontario,2023,3,Unemployment Rate,5.85,2023-Q3
+Prince Edward Island,2021,2,Unemployment Rate,10.86666667,2021-Q2
+Prince Edward Island,2021,3,Unemployment Rate,11.03333333,2021-Q3
+Prince Edward Island,2021,4,Unemployment Rate,9.0,2021-Q4
+Prince Edward Island,2022,1,Unemployment Rate,9.333333333,2022-Q1
+Prince Edward Island,2022,2,Unemployment Rate,7.366666667,2022-Q2
+Prince Edward Island,2022,3,Unemployment Rate,7.5,2022-Q3
+Prince Edward Island,2022,4,Unemployment Rate,6.433333333,2022-Q4
+Prince Edward Island,2023,1,Unemployment Rate,7.0,2023-Q1
+Prince Edward Island,2023,2,Unemployment Rate,7.533333333,2023-Q2
+Prince Edward Island,2023,3,Unemployment Rate,7.35,2023-Q3
+Quebec,2021,2,Unemployment Rate,6.5,2021-Q2
+Quebec,2021,3,Unemployment Rate,5.933333333,2021-Q3
+Quebec,2021,4,Unemployment Rate,4.8,2021-Q4
+Quebec,2022,1,Unemployment Rate,4.533333333,2022-Q1
+Quebec,2022,2,Unemployment Rate,4.366666667,2022-Q2
+Quebec,2022,3,Unemployment Rate,4.266666667,2022-Q3
+Quebec,2022,4,Unemployment Rate,3.966666667,2022-Q4
+Quebec,2023,1,Unemployment Rate,4.2,2023-Q1
+Quebec,2023,2,Unemployment Rate,4.2,2023-Q2
+Quebec,2023,3,Unemployment Rate,4.45,2023-Q3
+Saskatchewan,2021,2,Unemployment Rate,6.566666667,2021-Q2
+Saskatchewan,2021,3,Unemployment Rate,6.633333333,2021-Q3
+Saskatchewan,2021,4,Unemployment Rate,5.666666667,2021-Q4
+Saskatchewan,2022,1,Unemployment Rate,4.966666667,2022-Q1
+Saskatchewan,2022,2,Unemployment Rate,4.6,2022-Q2
+Saskatchewan,2022,3,Unemployment Rate,4.3,2022-Q3
+Saskatchewan,2022,4,Unemployment Rate,4.533333333,2022-Q4
+Saskatchewan,2023,1,Unemployment Rate,4.433333333,2023-Q1
+Saskatchewan,2023,2,Unemployment Rate,4.566666667,2023-Q2
+Saskatchewan,2023,3,Unemployment Rate,5.1,2023-Q3

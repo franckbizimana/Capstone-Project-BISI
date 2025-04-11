@@ -1,0 +1,17 @@
+Target,Feature,Importance Score
+Excellent_Very_Good,Depression,120
+Excellent_Very_Good,Anxiety,90
+Excellent_Very_Good,Avg Temp,60
+Excellent_Very_Good,Unemployment Rate,45
+Excellent_Very_Good,Therapy,30
+Good,Quarterly Sum Precip (mm),135
+Good,Quarterly Avg Temp (°C),110
+Good,QUARTER,100
+Good,CPI Average,95
+Good,Mortgage_Debt_to_Real_Estate_Ratio,90
+Good,Anxiety,45
+Fair_Poor,Anxiety,140
+Fair_Poor,Depression,115
+Fair_Poor,CPI value Cumulative,100
+Fair_Poor,Therapy,80
+Fair_Poor,Stress,60
