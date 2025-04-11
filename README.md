@@ -70,7 +70,7 @@ Filled missing values using midpoint estimation
 
 Checked for seasonality and skewness
 
-VIF analysis for multicollinearity
+Variance inflation factor (VIF) analysis for multicollinearity
 
 Predictive Models
 
